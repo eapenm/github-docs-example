@@ -1,5 +1,4 @@
 # Writing Good Documentation
-  <img width="100px" src="https://github.com/eapenm/github-docs-example/assets/13297994/a81526f3-773f-4b92-8b59-2a2afe705a4a" />
 
 ## Step 1  - Using Codeblocks.
 
@@ -10,7 +9,7 @@ Because it allows others to copy and paste their code to replicate or research i
 
 - In order to create codeblocks in markdown you need to use three backticks ( ` ) 
 - Not to be confused with quotaion ( ' )
-[]()
+<img width="100px" src="assets/backtick-key.jpg"/>
 ## Step 2 - codeblocks
 - When you can you should attempt to apply syntax highlighting to your codeblocks
 ```java
@@ -63,6 +62,8 @@ GFM supports emoji
 You can use the following format to create tables
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.<sup>[2]</sup>
+
+<img width="100px" src="assets\pipe-char.jpg" />
 
 ```md
 | Name | Shortcode | Emoji |
