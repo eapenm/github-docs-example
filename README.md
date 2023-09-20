@@ -72,6 +72,9 @@ Github extends the functionality of Markdown tables to provide more alignment an
 | abc | `:cloud with lighting:`   | 🌩️|
 ```
 
+![Secret Window Text](secret-window/hidden-garden.md)
+
+
 ## External Refernces
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
