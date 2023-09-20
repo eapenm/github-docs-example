@@ -53,7 +53,7 @@ GFM supports emoji
 
 | Name | Shortcode | Emoji |
 |------| --------- |-------|
-| abc | cloud      | :cloud:|
+| abc | `:cloud:`      | :cloud:|
 
 
 
