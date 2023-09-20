@@ -41,11 +41,31 @@ Good Cloud Engineers use codeblocks for both code and errors that appear in the 
 Exception in thread "main" java.lang.NullPointerException
     at NullPointerExceptionExample.main(NullPointerExceptionExample.java:4)
 ```
+## Step 2 - Use Github Flavoured Task Lists
+Github extends Markdown to have a list where you can check the items <sup>[1]</sup>
+
+- [x] Finish Step 1
+- [] Finish Step 2
+- [] Finish Step 3
+
+## Step 3 Use Emoji's - Optional
+GFM supports emoji
+
+| Name | Shortcode | Emoji |
+|------| --------- |-------|
+| abc | cloud      | :cloud:|
+
+
+
 
 ## Refernces
 
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-- https://github.github.com/gfm/
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GFM - Task List](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+- [GTM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+  
 
 
 
