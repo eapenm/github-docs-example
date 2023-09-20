@@ -9,7 +9,8 @@ A good __Cloud Engineer__ uses Codeblocks whenever possible.
 Because it allows others to copy and paste their code to replicate or research issues.
 
 - In order to create codeblocks in markdown you need to use three backticks ( ` ) 
-- Not to be confused with quotaion ( ' ) 
+- Not to be confused with quotaion ( ' )
+[]()
 ## Step 2 - codeblocks
 - When you can you should attempt to apply syntax highlighting to your codeblocks
 ```java
